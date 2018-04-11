@@ -1,0 +1,3 @@
+Halló heimur 
+Þetta er önnur lína ð 
+þetta er texti, ef skkástrik n er ekki í strengnum þá fer'ann í sömu línu

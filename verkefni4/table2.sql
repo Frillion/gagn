@@ -1,0 +1,4 @@
+CREATE TABLE 0908012440_skil4_a.poststod(
+	postnumer INTEGER NOT NULL PRIMARY KEY,
+    sveitarfélag VARCHAR(40) NOT NULL
+)

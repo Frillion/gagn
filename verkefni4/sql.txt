@@ -1,0 +1,21 @@
+1.Structured Query Language
+2. Gagnagrunnur er skipulagt samsafn uplýsinga.
+3.Dálkaheiti segir til um hvaða hópur af gögnum eru geymd í hverjum dálk en gögn eru þær uplýsingar sem eru í dálknum.
+4.Create Database
+5.Insert into
+  Starfsmenn(nafn,starfsheiti,netfang)
+  Value
+  ("Bjargey G. Gísladóttir","Skólastjóri","bgg@tskoli.is");
+6.Create Table Gagnasafn.NafnAnnarrarToflu
+  (
+  nafnFyrstaDalks Integer,
+  nafnAnnarsDalks Integer
+  );
+7.Insert Into
+  NafnAnnarrarToflu(nafnFyrtsDalks, nafnAnnarsDalks)
+  Values
+  (1,1);
+8.-2147483647,2147483647.
+9.CHAR þarf að vera nákvæm lengd en VARCHAR þarf þess ekki(það verður bætt við bilum til að lengja strenginn í rétta stærð með CHAR en ekki VARCHAR)
+10.player segir frá nafn á notanda og score sýnir hversu mörg stig hann fékk.
+11.DOUBLE geymir svo kallaðar fleytitölur t.d. 10*10*(10)(tíunda veldi), DECIMAL geymir kommutölur

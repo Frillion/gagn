@@ -1,0 +1,3 @@
+SELECT Name,GNP,GNPOld FROM 0908012440_skilaverkefni_5.country
+WHERE
+GNP < GNPOld

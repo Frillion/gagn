@@ -1,0 +1,1 @@
+SELECT sum(Population) AS Heildarfjöldi From 0908012440_skilaverkefni_5.country

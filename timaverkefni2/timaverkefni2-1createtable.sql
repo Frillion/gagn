@@ -1,0 +1,6 @@
+CREATE TABLE 0908012440_timaverkefni2.teams
+(
+	id INTEGER NOT NULL PRIMARY KEY,
+	name VARCHAR(37) NOT NULL,
+    conference VARCHAR(2) NULL
+);

@@ -1,0 +1,1 @@
+CREATE DATABASE 0908012440_timaverkefni2
