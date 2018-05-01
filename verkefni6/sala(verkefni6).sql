@@ -47,4 +47,4 @@ CREATE TABLE Sala
 
 INSERT INTO 0908012440_verkefni6.sala(fastanumer,kaupandi_kt,seljandi_kt,solumadur_kt,asett_verd_millj)
 VALUES
-('')
+('FG240','1009725787','1806072370','0804862279',2.4)
